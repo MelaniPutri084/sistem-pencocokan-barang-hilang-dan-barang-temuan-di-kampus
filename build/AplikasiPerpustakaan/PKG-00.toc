@@ -1,0 +1,887 @@
+('C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+ 'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\AplikasiPerpustakaan.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\main.py',
+   'PYSOURCE'),
+  ('python314.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmorph.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingmorph.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_mysql_connector.cp314-win_amd64.pyd',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\_mysql_connector.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libmysql.dll',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\libmysql.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\Windows\\system32\\MSVCP140.dll', 'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\libssl-3-x64.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\zlib1.dll',
+   'BINARY'),
+  ('PIL\\AvifImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'DATA'),
+  ('PIL\\BdfFontFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\BdfFontFile.py',
+   'DATA'),
+  ('PIL\\BlpImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'DATA'),
+  ('PIL\\BmpImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'DATA'),
+  ('PIL\\BufrStubImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'DATA'),
+  ('PIL\\ContainerIO.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ContainerIO.py',
+   'DATA'),
+  ('PIL\\CurImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'DATA'),
+  ('PIL\\DcxImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'DATA'),
+  ('PIL\\DdsImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'DATA'),
+  ('PIL\\EpsImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'DATA'),
+  ('PIL\\ExifTags.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'DATA'),
+  ('PIL\\FitsImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'DATA'),
+  ('PIL\\FliImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'DATA'),
+  ('PIL\\FontFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\FontFile.py',
+   'DATA'),
+  ('PIL\\FpxImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'DATA'),
+  ('PIL\\FtexImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'DATA'),
+  ('PIL\\GbrImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'DATA'),
+  ('PIL\\GdImageFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GdImageFile.py',
+   'DATA'),
+  ('PIL\\GifImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'DATA'),
+  ('PIL\\GimpGradientFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'DATA'),
+  ('PIL\\GimpPaletteFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'DATA'),
+  ('PIL\\GribStubImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'DATA'),
+  ('PIL\\Hdf5StubImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'DATA'),
+  ('PIL\\IcnsImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'DATA'),
+  ('PIL\\IcoImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'DATA'),
+  ('PIL\\ImImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'DATA'),
+  ('PIL\\Image.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\Image.py',
+   'DATA'),
+  ('PIL\\ImageChops.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'DATA'),
+  ('PIL\\ImageCms.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'DATA'),
+  ('PIL\\ImageColor.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'DATA'),
+  ('PIL\\ImageDraw.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'DATA'),
+  ('PIL\\ImageDraw2.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'DATA'),
+  ('PIL\\ImageEnhance.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageEnhance.py',
+   'DATA'),
+  ('PIL\\ImageFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'DATA'),
+  ('PIL\\ImageFilter.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'DATA'),
+  ('PIL\\ImageFont.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'DATA'),
+  ('PIL\\ImageGrab.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'DATA'),
+  ('PIL\\ImageMath.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'DATA'),
+  ('PIL\\ImageMode.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'DATA'),
+  ('PIL\\ImageMorph.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageMorph.py',
+   'DATA'),
+  ('PIL\\ImageOps.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'DATA'),
+  ('PIL\\ImagePalette.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'DATA'),
+  ('PIL\\ImagePath.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'DATA'),
+  ('PIL\\ImageQt.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'DATA'),
+  ('PIL\\ImageSequence.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'DATA'),
+  ('PIL\\ImageShow.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'DATA'),
+  ('PIL\\ImageStat.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageStat.py',
+   'DATA'),
+  ('PIL\\ImageText.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageText.py',
+   'DATA'),
+  ('PIL\\ImageTk.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'DATA'),
+  ('PIL\\ImageTransform.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageTransform.py',
+   'DATA'),
+  ('PIL\\ImageWin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'DATA'),
+  ('PIL\\ImtImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'DATA'),
+  ('PIL\\IptcImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'DATA'),
+  ('PIL\\Jpeg2KImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'DATA'),
+  ('PIL\\JpegImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'DATA'),
+  ('PIL\\JpegPresets.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'DATA'),
+  ('PIL\\McIdasImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'DATA'),
+  ('PIL\\MicImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'DATA'),
+  ('PIL\\MpegImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'DATA'),
+  ('PIL\\MpoImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'DATA'),
+  ('PIL\\MspImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'DATA'),
+  ('PIL\\PSDraw.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PSDraw.py',
+   'DATA'),
+  ('PIL\\PaletteFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'DATA'),
+  ('PIL\\PalmImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'DATA'),
+  ('PIL\\PcdImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'DATA'),
+  ('PIL\\PcfFontFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PcfFontFile.py',
+   'DATA'),
+  ('PIL\\PcxImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'DATA'),
+  ('PIL\\PdfImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'DATA'),
+  ('PIL\\PdfParser.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'DATA'),
+  ('PIL\\PixarImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'DATA'),
+  ('PIL\\PngImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'DATA'),
+  ('PIL\\PpmImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'DATA'),
+  ('PIL\\PsdImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'DATA'),
+  ('PIL\\QoiImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'DATA'),
+  ('PIL\\SgiImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'DATA'),
+  ('PIL\\SpiderImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'DATA'),
+  ('PIL\\SunImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'DATA'),
+  ('PIL\\TarIO.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\TarIO.py',
+   'DATA'),
+  ('PIL\\TgaImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'DATA'),
+  ('PIL\\TiffImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'DATA'),
+  ('PIL\\TiffTags.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'DATA'),
+  ('PIL\\WalImageFile.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\WalImageFile.py',
+   'DATA'),
+  ('PIL\\WebPImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'DATA'),
+  ('PIL\\WmfImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'DATA'),
+  ('PIL\\XVThumbImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'DATA'),
+  ('PIL\\XbmImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'DATA'),
+  ('PIL\\XpmImagePlugin.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'DATA'),
+  ('PIL\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
+   'DATA'),
+  ('PIL\\__main__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\__main__.py',
+   'DATA'),
+  ('PIL\\_avif.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_avif.pyi',
+   'DATA'),
+  ('PIL\\_binary.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_binary.py',
+   'DATA'),
+  ('PIL\\_deprecate.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'DATA'),
+  ('PIL\\_imaging.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imaging.pyi',
+   'DATA'),
+  ('PIL\\_imagingcms.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.pyi',
+   'DATA'),
+  ('PIL\\_imagingft.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingft.pyi',
+   'DATA'),
+  ('PIL\\_imagingmath.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.pyi',
+   'DATA'),
+  ('PIL\\_imagingmorph.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingmorph.pyi',
+   'DATA'),
+  ('PIL\\_imagingtk.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.pyi',
+   'DATA'),
+  ('PIL\\_tkinter_finder.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_tkinter_finder.py',
+   'DATA'),
+  ('PIL\\_typing.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_typing.py',
+   'DATA'),
+  ('PIL\\_util.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_util.py',
+   'DATA'),
+  ('PIL\\_version.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_version.py',
+   'DATA'),
+  ('PIL\\_webp.pyi',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\_webp.pyi',
+   'DATA'),
+  ('PIL\\features.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\features.py',
+   'DATA'),
+  ('PIL\\py.typed',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\py.typed',
+   'DATA'),
+  ('PIL\\report.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\PIL\\report.py',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\METADATA',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\RECORD',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\WHEEL',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('customtkinter-6.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter-6.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('customtkinter\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\__init__.py',
+   'DATA'),
+  ('customtkinter\\assets\\.DS_Store',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\.DS_Store',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\blue.json',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\dark-blue.json',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\dark-blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\gold.json',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\gold.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\green.json',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\green.json',
+   'DATA'),
+  ('customtkinter\\windows\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_input_dialog.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_input_dialog.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_tk.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_tk.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_toplevel.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_toplevel.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_button.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_button.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_entry.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_entry.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_frame.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_frame.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_label.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_label.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_slider.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_slider.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_switch.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_switch.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\image\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\METADATA',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\RECORD',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\WHEEL',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\sboms\\pillow-13.0.0.cdx.json',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\sboms\\pillow-13.0.0.cdx.json',
+   'DATA'),
+  ('pillow-13.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\.venv\\Lib\\site-packages\\pillow-13.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Lenovo\\OneDrive\\Documents\\TEMUKAN '
+   'fix\\TEMUKAN\\TEMUKAN\\build\\AplikasiPerpustakaan\\base_library.zip',
+   'DATA')],
+ 'python314.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
